@@ -87,11 +87,13 @@ main {
   font-weight: bold;
   text-align: right;
   margin-right: 10px;
+  color: black;
 }
 
 .btn {
   background-color: darkblue;
   border-radius: 20px;
+  
   width: 200px;
   margin: 0 auto;
   padding: 10px;
